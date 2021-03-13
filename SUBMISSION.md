@@ -17,3 +17,14 @@ SE441-HW8
 
 -[#5 pts] Your browser accessing the main page of the website from your local container.
 ![Screen Capture #1](Images/dockerfile3.PNG)
+
+#DOCKER COMPOSE  - MYSQL ONLY
+-[5 pts]        The output from the docker-compose  up  command.
+![Screen Capture #1](Images/dockercomposer1.PNG)
+
+-[5 pts]        Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
+![Screen Capture #1](Images/dockercomposer2.PNG)
+
+-[5 pts]       A  section  of  the  stack  trace  generated  when  you  attempt  to  run  the  
+application container that has been updated to use MySQL.
+![Screen Capture #1](Images/dockercomposer3.PNG)
