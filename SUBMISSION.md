@@ -9,9 +9,9 @@ SE441-HW8
 
 
 #DOCKER
-#5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
+-[5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
 ![Link #1](https://github.com/sburke-depaul/hw8-sburke-depaul/blob/main/DockerFile)
-#5 pts Your running docker instance as shown by a ps command.
+-[5 pts] Your running docker instance as shown by a ps command.
 ![Screen Capture #1](Images/dockerfile2.PNG)
-#5 pts Your browser accessing the main page of the website from your local container.
+-[#5 pts] Your browser accessing the main page of the website from your local container.
 ![Screen Capture #1](Images/dockerfile3.PNG)
