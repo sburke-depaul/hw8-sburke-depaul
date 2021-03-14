@@ -28,3 +28,17 @@ SE441-HW8
 -[5 pts]       A  section  of  the  stack  trace  generated  when  you  attempt  to  run  the  
 application container that has been updated to use MySQL.
 ![Screen Capture #1](Images/dockercomposer3.PNG)
+
+#DOCKER COMPOSE - APP SERVER AND MYSQL
+-[5 pts] Your updated docker-compose.yml file containing the application server, built from your local DockerFle, and the existing MySQL configuration. Please provide a link
+to this file rather than a screen capture.
+![Link #2](https://github.com/sburke-depaul/hw8-sburke-depaul/blob/main/docker-compose.yml)
+
+-[5 pts] Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
+![Link #3](https://github.com/sburke-depaul/spring-petclinic/blob/master/src/main/resources/application-mysql.properties)
+
+-[5 pts] The output from the docker-compose up command.
+![Screen Capture #1](Images/dockercomposerapp3.PNG)
+
+-[5 pts] Your browser accessing the \Veterinarians" page of the website from your local container.
+![Screen Capture #1](Images/dockercomposerapp4.PNG)
